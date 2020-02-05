@@ -54,10 +54,10 @@
             <!--Grid column-->
             <div class="col-md-12 mb-4 white-text text-center wow fadeIn">
 
-              <h3 class="display-3 font-weight-bold white-text mb-0 pt-md-5 pt-5">Please Join Us for Ulric's 7th Birthday Party
+              <h3 class="display-3 font-weight-bold white-text mb-0 pt-md-5 pt-5">Please Join Us for <Name>'s Birthday Party
               </h3>
               <hr class="hr-light my-4 w-75">
-              <h4 class="subtext-header mt-2 mb-4">Ulric's 7th Birthday Party is on Saturday, December 7th, from 4:45pm - 7:30pm, at Flying Squirrel. We would love if you and your child would join us to celebrate! Details about the party can be found below - and don't forget to RSVP!</h4>
+              <h4 class="subtext-header mt-2 mb-4"><Name> Birthday Party is on Saturday, December 7th, from 4:45pm - 7:30pm, at Flying Squirrel. We would love if you and your child would join us to celebrate! Details about the party can be found below - and don't forget to RSVP!</h4>
               <a href="rsvp.php" style="border-radius:50px;" class="text-dark btn dusty-grass-gradient">
                 Click Here to RSVP
               </a>
@@ -101,7 +101,7 @@
             <h4 class="font-weight-bold">Location:</h4><p> Flying Squirrel Indoor Trampoline Park<br>4380 Wellington Rd S.</p>
             <hr>
             <h4 class="font-weight-bold">Contact Info:</h4>
-            <p>Shadia (Ulric's Mom)<br>548-888-1105<br>shadia@shadiaali.ca</p>
+            <p><Name><br>555-555-5555<br><Name>@gmail.com</p>
 
 
           </div>
