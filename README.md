@@ -8,8 +8,6 @@ A birthday invitation website built with php.
 - Admin can view and filter rsvp responses, which are stored and pulled from database.
 - Saves paper and simplifies the rsvp process. 
 
-## Live site
-The live site can be viewed http://ulricsbirthday.party/
 
 ## Planned Features
 - Might want to add edit/delete feature for rsvps, in case responses need to be edited or deleted for whatever reason. Wasn't needed for my purpose. 
